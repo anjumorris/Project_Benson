@@ -4,7 +4,9 @@
 > #### Datasets
 >
 >  	1. MTA Turnstile data - 3 months - from 4/28/2018 to 07/27/2018
->  	2. Tech ... please fill 
+>  	2. A concatenation of a list of the 25 largest tech companies based in in New York City and a list of the largest tech companies based outside of New York City with satellite offices there with their addresses from Built in NYC and TechCrunch
+>   3. A dataset that contains the number of females that work in computer occupations from the US Census Bureau American Community Survey
+>   4. A dataset that contains the subway stations located in the targeted ZIP Codes from Google Maps data
 
 
 
@@ -14,7 +16,7 @@
 > 2. Pandas
 > 3. Matplotlib
 > 4. Seaborn
-> 5. Google ... please fill 
+> 5. Google MyMaps on Google Drive
 
 
 
@@ -27,6 +29,7 @@
 > 3. RUN: select_top_10_stations.ipynb
 > 4. RUN: week_top_10.ipynb 
 > 5. RUN: heatmap.ipynb
+> 6. RUN: target_stations.ipynb
 
 
 
