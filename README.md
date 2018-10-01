@@ -22,6 +22,8 @@
 
 > #### How to run ?
 >
+> All the code for the project is in /notebooks folder ... please start with the read_data.ipynb file
+>
 > Ensure that output_stage2.csv file is generated before running the rest of the notebooks
 >
 > 1. RUN: read_data.ipynb ->DATA: output_stage1.csv
